@@ -1,0 +1,22 @@
+composer create-project laravel/laravel zakeria
+
+php artisan serve
+
+php artisan make:controller PostController  لانشاء Controller
+http://127.0.0.1:8000
+
+
+https://youtu.be/SlrTIg8sngg?list=PLftLUHfDSiZ4GfPZxaFDsA7ejUzD7SpWa
+
+22
+
+https://app.infinityfree.net/login 
+
+
+bootstrept@gmail.com
+
+maxbackend123@gmail.com
+
+https://colorlib.com/wp/themes/
+
+!EXzX$8v~le3|%n5
